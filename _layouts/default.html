@@ -2,7 +2,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Govhack Science</title>
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Melbourne Science Hackfest</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic' rel='stylesheet' type='text/css'>
@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/melbourne/resources/apple-touch-icon-{% if page.ios_app_name %}{{page.ios_app_name}}-{% endif %}72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/melbourne/resources/apple-touch-icon-114x114-precomposed.png">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@jesserobertson">
+    <meta name="twitter:site" content="@xiaobinshen">
     {% if page.ios_app_name %}
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -29,7 +29,7 @@
       <meta name="og:description" content="{{ content | strip_html | truncatewords: 25 }}">
       {% endif %}
     {% else %}
-      <meta name="description" content="Govhack - I will do science to it">
+      <meta name="description" content="Melbourne Sicience Hackfest">
     {% endif %}
     {% if page.og_image_url %}
     <meta property="og:image" content="{{ page.og_image_url }}">
@@ -38,8 +38,8 @@
     <meta property="og:image" content="{{ page.photo_url }}">
     {% endif %}
     {% endif %}
-    <meta property="og:url" content="http://govhack-science.github.io{{ page.url | remove_first:'index.html' }}">
-    <meta property="og:site_name" content="govhack-science.github.io">
+    <meta property="og:url" content="http://sciencehackau.github.io/melbourne/{{ page.url | remove_first:'index.html' }}">
+    <meta property="og:site_name" content="sciencehackau.github.io/melbourne/">
     <meta property="og:type" content="article">
     <meta property="og:locale" content="en_GB" />
     {% if page.date %}
@@ -55,7 +55,7 @@
     <h1 class="logo" onclick="document.location.href='/';">
     <a href="http://ands.org.au"><img src="/melbourne/resources/ands.png" width="60" height="60" alt="ANDS" title="Go to ANDS website"></a>
     <a href="http://www.csiro.au"><img src="/melbourne/resources/csiro-logo.png" width="60" height="60" alt="CSIRO" title="Go to CSIRO's website" style="vertical-align: middle"></a>
-    <a href="http://nectar.org.au"><img src="/melbourne/resources/nectar.png" width="60" height="60" alt="NeCTAR" title="Go to NeCTAR's website" style="vertical-align: middle"></a>
+    <a href="http://nectar.org.au"><img src="/melbourne/resources/nectar.png" width="60"  alt="NeCTAR" title="Go to NeCTAR's website" style="vertical-align: middle"></a>
     <a href="http://tern.org.au"><img src="/melbourne/resources/tern.png" width="60" height="60" alt="TERN" title="Go to TERN's website" style="vertical-align: middle"></a>
 
     </h1>
