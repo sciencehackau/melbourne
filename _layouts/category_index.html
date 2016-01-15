@@ -9,7 +9,7 @@ layout: default
 {% for category in page.sorted_categories %}
   {% if site.categories[category].size > 1 %}
   <li>
-    <a href="/melbourne/category/{{ category | escape }}/">{{ category | escape }}</a>
+    <a href="/category/{{ category | escape }}/">{{ category | escape }}</a>
     <ul class="posts">
       {% for post in site.categories[category] %}
         <li>
