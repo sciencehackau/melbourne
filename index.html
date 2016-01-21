@@ -37,7 +37,7 @@ especially using data of national significance</li>
     </div>
   <div class="content full-bleed" id="recent-posts">
   {% for post in site.posts limit:25 %}<a
-    href="melbourne/{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
+    href="/melbourne{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
       <h3>{{post.url}}</h3>
       <div class="padded-content">
         <div class="title">{{ post.title }}</div>
