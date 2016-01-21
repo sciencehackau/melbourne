@@ -38,6 +38,7 @@ especially using data of national significance</li>
   <div class="content full-bleed" id="recent-posts">
   {% for post in site.posts limit:25 %}<a
     href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
+       <h2> post url = {{post.url}}</h2>
       <div class="padded-content">
         <div class="title">{{ post.title }}</div>
       {% if post.photo_url %}
