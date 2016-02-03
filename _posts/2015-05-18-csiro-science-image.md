@@ -8,6 +8,6 @@ CSIRO Science Image provides a curated set of over 4000 photographs from the CSI
 
 The images come with a lot of metadata, and you can search by topic, by spatial location or by photo characteristics (color, size, orientation etc).
 
-[![CSIRO Science Image website]({{ site.url }}/resources/csiro-scienceimage.png)](http://www.scienceimage.csiro.au/search/)
+[![CSIRO Science Image website]({{ site.url }}/melbourne/resources/csiro-scienceimage.png)](http://www.scienceimage.csiro.au/search/)
 
 CSIRO has a regular Image of the Day post on [Twitter](https://twitter.com/CSIROnews) and [Facebook](https://www.facebook.com/pages/CSIRO/142468583842) - just search for [#CSIROPics](https://twitter.com/search?f=realtime&q=%23csiropics&src=typd).

@@ -9,7 +9,7 @@ The [AODN Ocean Data Portal](http://portal.aodn.org.au/aodn/) is the primary acc
 
 Primary datasets are contributed by the Integrated Marine Observing System (IMOS) an Australian Government Research Infrastructure project, and the six Commonwealth Agencies with responsibilities in the Australian marine jurisdiction (Australian Antarctic Division, Australian Institute for Marine Science, Bureau of Meteorology, Commonwealth Science and Industrial Research Organisation, Geoscience Australia and the Royal Australian Navy).
 
-[![AODN portal homepage]({{ site.url }}/resources/aodn-portal.png)](http://portal.aodn.org.au/aodn/ "AODN portal")
+[![AODN portal homepage]({{ site.url }}/melbourne/resources/aodn-portal.png)](http://portal.aodn.org.au/aodn/ "AODN portal")
 
 This portal has access to the complete IMOS metadata catalog and all available ocean data (you can also access the [IMOS portal here](https://imos.aodn.org.au/imos123/home). Some of the interesting datasets include:
 

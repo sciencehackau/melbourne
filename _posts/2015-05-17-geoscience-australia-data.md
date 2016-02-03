@@ -6,7 +6,7 @@ title: Geoscience Australia Data and Publications
 
 Geoscience Australia has an extensive catalogue of data, publications, online tools, maps and videos. These cover topics from [astronomy](http://www.ga.gov.au/scientific-topics/astronomical), [earth observation and satellite imagery](http://www.ga.gov.au/scientific-topics/earth-obs), [energy](http://www.ga.gov.au/scientific-topics/energy), [geographic information](http://www.ga.gov.au/scientific-topics/geographic-information), [hazards](http://www.ga.gov.au/scientific-topics/hazards), [marine and costal](http://www.ga.gov.au/scientific-topics/marine), [minerals](http://www.ga.gov.au/scientific-topics/minerals), [positioning and navigation](http://www.ga.gov.au/scientific-topics/positioning-navigation) and [water](http://www.ga.gov.au/scientific-topics/water).
 
-[![Geoscience Australia Data Access]({{ site.url }}/resources/ga-portal.png)](http://www.ga.gov.au/data-pubs "Geoscience Australia Data & Publications")
+[![Geoscience Australia Data Access]({{ site.url }}/melbourne/resources/ga-portal.png)](http://www.ga.gov.au/data-pubs "Geoscience Australia Data & Publications")
 
 Many of Geoscience Australia's datasets are available via [web services](http://www.ga.gov.au/data-pubs/web-services), so you can serve live data directly into your hack or GIS package. Most of these services are [listed on this page](http://www.ga.gov.au/data-pubs/web-services/ga-web-services). 
 

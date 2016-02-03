@@ -6,7 +6,7 @@ title: Atlas of Living Australia
 
 The Atlas of Living Australia (ALA) is a collaborative, national project that aggregates biodiversity data from multiple sources and makes it available and usable online. 
 
-[![ALA homepage]({{ site.url }}/resources/ala-shot.png)](http://www.ala.org.au/ "Atlas of Living Australia homepage")
+[![ALA homepage]({{ site.url }}/melbourne/resources/ala-shot.png)](http://www.ala.org.au/ "Atlas of Living Australia homepage")
 
 It contains a massive amount ([nearly 56 million records](http://dashboard.ala.org.au/)) of biodiversity data collated by [Australian scientific communities](http://www.ala.org.au/about-the-atlas/atlas-background/atlas-partners/partner-profiles/) and [citizen scientists](http://www.ala.org.au/get-involved/citizen-science/). Tons of geospatially located species occurences, info on those species, and APIs for uploading and accessing data.
 

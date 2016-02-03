@@ -6,7 +6,7 @@ title: AuScope Portal
 
 The AuScope portal contains a variety of Australia-wide geospatial and geoscientific datasets from the CSIRO, Geoscience Australia, the state Geological Surveys and several Australian universities.
 
-[![AuScope portal homepage]({{ site.url }}/resources/auscope-portal.png)](http://portal.auscope.org/ "AuScope portal")
+[![AuScope portal homepage]({{ site.url }}/melbourne/resources/auscope-portal.png)](http://portal.auscope.org/ "AuScope portal")
 
 Some of the cooler datasets include:
 

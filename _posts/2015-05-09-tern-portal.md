@@ -9,7 +9,7 @@ The [Terrestrial Ecosystem Research Network (TERN)](http://www.tern.org.au/What-
 
 The [TERN data discovery portal](http://portal.tern.org.au/ "TERN portal") provides access to all of the stored data across the ecosysten science community.
 
-[![TERN portal homepage]({{ site.url }}/resources/tern-portal.png)](http://portal.tern.org.au/ "TERN portal")
+[![TERN portal homepage]({{ site.url }}/melbourne/resources/tern-portal.png)](http://portal.tern.org.au/ "TERN portal")
 
 The TERN portal provides a wide variety of ecosystem datasets including datasets on:
 

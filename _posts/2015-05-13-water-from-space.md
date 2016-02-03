@@ -9,7 +9,7 @@ Water Observations from Space (WOfS) is a 25-m resolution gridded dataset indica
 
 The water detected for each location is summed through time and then compared to the number of clear observations of that location (i.e. observations not affected by cloud, shadow or other quality issues). The result is a percentage value of the number of times water was observed at the location. This provides relatively seamless historical water coverage for Australia. 
 
-[![Australia WOfS map]({{ site.url }}/resources/wofs.png)](http://dap.nci.org.au/thredds/remoteCatalogService?catalog=http://dapds00.nci.org.au/thredds/catalog/fk4/catalog.xml)
+[![Australia WOfS map]({{ site.url }}/melbourne/resources/wofs.png)](http://dap.nci.org.au/thredds/remoteCatalogService?catalog=http://dapds00.nci.org.au/thredds/catalog/fk4/catalog.xml)
 
 The values in the summary layer indicate how often water was observed (as a proportion of the total number of clear observations) in each cell of a 25 metre by 25 metre grid across Australia since 1987. Possible floods appear in the low values while consistent water bodies such as lakes and dams have high values. The WOfS product Version 1.5 includes observations taken between 1987 and 2014 (inclusive) from the Landsat 5 and 7 satellites. WOfS covers all of mainland Australia and Tasmania but excludes off-shore Territories.
 
