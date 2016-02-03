@@ -9,7 +9,7 @@ Sentinel Hotspots provides an important and consistent overview for management o
 
 Sentinel hotspots are point data, derived from (a growing number of) satellite-born instruments that detect light in the thermal wavelengths. Typically, the satellite data are processed with a specific algorithm that highlights areas with an unusually high temperature.
 
-[![Sentinal Hotspots homepage]({{ site.url }}/resources/sentinel-portal.png)](http://sentinel.ga.gov.au/#/announcement "Sentinal Hotspots homepage")
+[![Sentinal Hotspots homepage]({{ site.url }}/melbourne/resources/sentinel-portal.png)](http://sentinel.ga.gov.au/#/announcement "Sentinal Hotspots homepage")
 
 A number of land management and emergency response agencies have taken data feeds from the Sentinel system to imbed into their routine fire management operations enhancing their situational awareness programs to assist staff, managers and the community. Hotspots data when merged with other spatial information provide a strategic picture to land managers; which allows them to understand the implications of a particular fire as well as to target resources.
 
