@@ -24,7 +24,7 @@ title: Overview
   <ul>
   {% for post in site.tags.datasets %}
     <li>
-      <a href="melbourne/{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html }}
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html }}
     </li>
   {% endfor %}
   </ul>
@@ -34,7 +34,7 @@ title: Overview
   <ul>
   {% for post in site.tags.ideas %}
     <li>
-      <a href="melbourne/{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html }}
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt | strip_html }}
     </li>
   {% endfor %}
   </ul>
