@@ -10,7 +10,7 @@
     <!--link rel="stylesheet" media="print" href="/melbourne/resources/print.css" type="text/css"-->
     <link rel="stylesheet" media="screen, projection" href="{{site.baseurl}}resources/screen.css" type="text/css">
     <link rel="stylesheet" media="print" href="{{site.baseurl}}resources/print.css" type="text/css">
-    <link rel="alternate" type="application/atom+xml" title="Govhack Science" href="/atom.xml">
+    <link rel="alternate" type="application/atom+xml" title="Science hack" href="/atom.xml">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon-precomposed" href="/melbourne/resources/apple-touch-icon-57x57-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/melbourne/resources/apple-touch-icon-{% if page.ios_app_name %}{{page.ios_app_name}}-{% endif %}72x72-precomposed.png">
@@ -68,7 +68,7 @@
     </h1>
     <ul class="navigation">
       <li><a href="/melbourne/" title="Home"> Home</a></li>
-      <li><a href="/melbourne/prizes/"{% if page.url contains "/prizes/" %}class="active"{% endif %} title="Prizes &amp; bounties up for grabs!">Prizes</a></li>
+      <li><a href="{{site.baseurl}}prizes/"{% if page.url contains "/prizes/" %}class="active"{% endif %} title="Prizes &amp; bounties up for grabs!">Prizes</a></li>
       <li><a href="/melbourne/overview/"{% if page.url contains "/ideas/" %}class="active"{% endif %} title="Search the big list of sciency datasets and suggestions for hackers">Search</a></li>
      <li><a href="/melbourne/mentors/"{% if page.url contains "/mentors/" %}class="active"{% endif %} title="mentors">Mentors</a></li>
      <li><a href="/melbourne/contact/"{% if page.url contains "/contact/" %}class="active"{% endif %} title="contact">Contacts</a></li>
